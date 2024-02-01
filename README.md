@@ -44,5 +44,5 @@ Users should be able to:
 
 ## Author
 
-- Linkedin - [Add your name here](https://www.linkedin.com/in/m-eldon-96b195229/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/eldon6219)
+- Linkedin - (https://www.linkedin.com/in/m-eldon-96b195229/)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/eldon6219)
